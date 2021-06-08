@@ -1,5 +1,5 @@
 # Scientific-Calculator-python
-Scientific Calculator made for School project during the winter break made using python
+Scientific Calculator made for School project during the winter break made using python for grade 12
 
 Download python from python.org
 
